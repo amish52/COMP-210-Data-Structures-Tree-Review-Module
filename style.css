@@ -1,0 +1,25 @@
+* {
+  font-family: Georgia;
+  color: #030303;
+} 
+header {
+  background-color: #ff006f;
+  color: #ff0066;
+  padding: 5px;
+  border-radius: 15px;
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: center;
+  text-decoration: none;
+}
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  padding: 0 5% 0 5%;
+  text-align: center;
+}
+button, .button {
+  background: #5dc9e5;
+}
